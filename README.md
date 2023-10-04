@@ -69,7 +69,8 @@ I like to play with 3D printers and electronics in my free time.
 <img src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white"></img>
 
 
-
+## ⭐ Badges
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c6b64523-67e5-4954-a528-cb3b383c6ace" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ## 🛠️ Tools
 <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white"></img>
