@@ -71,7 +71,7 @@ I like to play with 3D printers and electronics in my free time.
 
 ## ⭐ Badges
 
-<img src="https://images.credly.com/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" width="50px"></img>
+<img src="https://www.cncf.io/wp-content/uploads/2021/09/kcna_color.svg" width="50px"></img>
 
 ## 🛠️ Tools
 <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white"></img>
